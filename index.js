@@ -1,7 +1,7 @@
 const TelegramBot = require("node-telegram-bot-api");
 
-const TOKEN = "7498251188:AAHgr5CMyTVVBn7lCqaO0qTPrggucsCbbxY"; // Replace with your bot token
-const webhookUrl = "https://i-ai-telegram-afg7.vercel.app/api/webhook"; // This should match your deployed function URL
+const TOKEN = "7516525828:AAHf5q3wENV2V9iu-6cmTpYtiM4nPXZGM20"; // Replace with your bot token
+const webhookUrl = "https://iai-game-update.vercel.app/api/webhook"; // This should match your deployed function URL
 
 const bot = new TelegramBot(TOKEN);
 

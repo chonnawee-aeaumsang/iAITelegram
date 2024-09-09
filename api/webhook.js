@@ -1,8 +1,8 @@
 const TelegramBot = require("node-telegram-bot-api");
 
-const TOKEN = "7498251188:AAHgr5CMyTVVBn7lCqaO0qTPrggucsCbbxY"; // Replace with your bot token
-const gameName = "iAIGame"; // Replace with your game's short name
-const gameUrl = "https://i-ai-telegram-afg7.vercel.app/"; // Replace with your game URL
+const TOKEN = "7516525828:AAHf5q3wENV2V9iu-6cmTpYtiM4nPXZGM20"; // Replace with your bot token
+const gameName = "iAIRobotSwipe"; // Replace with your game's short name
+const gameUrl = "https://iai-game-update.vercel.app/"; // Replace with your game URL
 
 const bot = new TelegramBot(TOKEN);
 
